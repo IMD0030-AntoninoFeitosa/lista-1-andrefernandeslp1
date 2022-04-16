@@ -2,21 +2,21 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<__insira seu nome aqui__>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: *\<ANDRÉ AUGUSTO FERNANDES>*
+- Email: *\<andre.mdia@gmail.com>*
+- Turma: *\<03>*
 
 # Questões Finalizadas
 
-- [ ] Negativos 5
-- [ ] Soma Vizinhos
-- [ ] Intervalos
-- [ ] Fibonacci
-- [ ] Minmax
-- [ ] Inverter
-- [ ] Filtragem
-- [ ] Ponto em Retângulo 1
-- [ ] Ponto em Retângulo 2
+- [X] Negativos 5
+- [X] Soma Vizinhos
+- [X] Intervalos
+- [X] Fibonacci
+- [X] Minmax
+- [X] Inverter
+- [X] Filtragem
+- [X] Ponto em Retângulo 1
+- [X] Ponto em Retângulo 2
 
 
 --------
