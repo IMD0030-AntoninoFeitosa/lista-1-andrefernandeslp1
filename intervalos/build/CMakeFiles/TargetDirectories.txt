@@ -1,0 +1,4 @@
+/home/runner/lista-1-andrefernandeslp1/intervalos/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista-1-andrefernandeslp1/intervalos/build/CMakeFiles/program.dir
+/home/runner/lista-1-andrefernandeslp1/intervalos/build/CMakeFiles/edit_cache.dir
+/home/runner/lista-1-andrefernandeslp1/intervalos/build/CMakeFiles/verify.dir

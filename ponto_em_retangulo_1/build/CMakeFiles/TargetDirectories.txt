@@ -1,0 +1,5 @@
+/home/runner/lista-1-andrefernandeslp1/ponto_em_retangulo_1/build/CMakeFiles/edit_cache.dir
+/home/runner/lista-1-andrefernandeslp1/ponto_em_retangulo_1/build/CMakeFiles/run_tests.dir
+/home/runner/lista-1-andrefernandeslp1/ponto_em_retangulo_1/build/CMakeFiles/rebuild_cache.dir
+/home/runner/lista-1-andrefernandeslp1/ponto_em_retangulo_1/build/CMakeFiles/func.dir
+/home/runner/lista-1-andrefernandeslp1/ponto_em_retangulo_1/build/CMakeFiles/all_tests.dir
